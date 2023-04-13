@@ -1,0 +1,3 @@
+module TheApp {
+    requires Updater;
+}
