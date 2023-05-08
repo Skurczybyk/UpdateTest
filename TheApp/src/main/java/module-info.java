@@ -1,3 +1,3 @@
 module TheApp {
-    requires Updater;
+    requires Update;
 }

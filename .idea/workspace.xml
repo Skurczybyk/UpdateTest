@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0c9010d-a771-4e3c-8828-6711a84de626" name="Changes" comment="" />
+    <list default="true" id="c0c9010d-a771-4e3c-8828-6711a84de626" name="Changes" comment="Basic code, 3 modules of nothing, fresh new modules with pom and module-info.java">
+      <change afterPath="$PROJECT_DIR$/Bootstrap/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Update/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Update/src/main/java/Update/ConfigCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Update/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TheApp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheApp/src/main/java/App/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheApp/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheApp/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updater/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updater/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updater/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updater/src/main/java/org/UpdaterTest/ConfigurationCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updater/src/main/java/org/UpdaterTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheApp/src/main/java/TheApp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updater/src/main/java/org/UpdaterTest/UpdateManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,18 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Acer/OneDrive/Java/Projects/UpdaterTest"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/OneDrive/Java/Projects/UpdaterTest&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="UpdateTest" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="App.Main" />
+      <option name="MAIN_CLASS_NAME" value="TheApp.Main" />
       <module name="TheApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1680816112065</updated>
     </task>
+    <task id="LOCAL-00001" summary="Basic code, 3 modules of nothing, fresh new modules with pom and module-info.java">
+      <created>1681352583222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681352583222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic code, 3 modules of nothing, fresh new modules with pom and module-info.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic code, 3 modules of nothing, fresh new modules with pom and module-info.java" />
   </component>
 </project>
